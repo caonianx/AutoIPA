@@ -1,3 +1,4 @@
+
 ####一. 使用autoIPA.app生成渠道包
 1. 双击autoIPA.app运行。
 
